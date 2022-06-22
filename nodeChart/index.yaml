@@ -3,9 +3,9 @@ entries:
   nodeappchart:
   - apiVersion: v1
     appVersion: 2.0.0
-    created: "2022-06-22T12:27:15.997485+08:00"
+    created: "2022-06-22T12:51:05.813927+08:00"
     description: helm chart for https://github.com/yogeshlonkar/nodeapp
-    digest: da40ac502a0db335772f47111899bf56de1e2b5c1c9b112fdad33405b397175d
+    digest: 11863609e7e81c13d5640009a9277b93a6d32116dcff2415686c47d0ecbf7e5a
     home: https://github.com/yogeshlonkar/nodeapp
     icon: https://raw.githubusercontent.com/yogeshlonkar/nodeapp/master/public/yogi.jpg
     keywords:
@@ -22,4 +22,4 @@ entries:
     urls:
     - nodeappchart-2.0.0.tgz
     version: 2.0.0
-generated: "2022-06-22T12:27:15.997002+08:00"
+generated: "2022-06-22T12:51:05.813477+08:00"
